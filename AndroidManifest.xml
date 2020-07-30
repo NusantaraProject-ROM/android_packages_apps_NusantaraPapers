@@ -5,14 +5,14 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.paranoid.ParanoidPapers"
+    package="com.nusantara.NusantaraPapers"
     android:versionCode="30"
     android:versionName="3.0" >
 
     <application
         android:label="@string/app_name">
 
-        <receiver android:name=".ParanoidPapers">
+        <receiver android:name=".NusantaraPapers">
             <intent-filter>
                 <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
             </intent-filter>

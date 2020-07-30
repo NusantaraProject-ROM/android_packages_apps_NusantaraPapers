@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: GPL-2.0
 
 android_app {
-    name: "ParanoidPapers",
+    name: "NusantaraPapers",
     system_ext_specific: true,
     sdk_version: "current",
     aaptflags: ["--auto-add-overlay"],
