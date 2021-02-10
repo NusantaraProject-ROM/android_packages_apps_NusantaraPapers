@@ -5,23 +5,38 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
-        <item>wallpaper_17</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_14</item>
-        <item>wallpaper_13</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_10</item>
-        <item>wallpaper_9</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_3</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_1</item>
-        <item>wallpaper_0</item>
+        <item>Wallpaper-33</item>
+        <item>Wallpaper-32</item>
+        <item>Wallpaper-31</item>
+        <item>Wallpaper-30</item>
+        <item>Wallpaper-29</item>
+        <item>Wallpaper-28</item>
+        <item>Wallpaper-27</item>
+        <item>Wallpaper-26</item>
+        <item>Wallpaper-25</item>
+        <item>Wallpaper-24</item>
+        <item>Wallpaper-23</item>
+        <item>Wallpaper-22</item>
+        <item>Wallpaper-21</item>
+        <item>Wallpaper-20</item>
+        <item>Wallpaper-19</item>
+        <item>Wallpaper-18</item>
+        <item>Wallpaper-17</item>
+        <item>Wallpaper-16</item>
+        <item>Wallpaper-15</item>
+        <item>Wallpaper-14</item>
+        <item>Wallpaper-13</item>
+        <item>Wallpaper-12</item>
+        <item>Wallpaper-11</item>
+        <item>Wallpaper-10</item>
+        <item>Wallpaper-09</item>
+        <item>Wallpaper-08</item>
+        <item>Wallpaper-07</item>
+        <item>Wallpaper-06</item>
+        <item>Wallpaper-05</item>
+        <item>Wallpaper-04</item>
+        <item>Wallpaper-03</item>
+        <item>Wallpaper-02</item>
+        <item>Wallpaper-01</item>
     </array>
 </resources>
