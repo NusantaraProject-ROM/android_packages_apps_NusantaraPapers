@@ -15,5 +15,5 @@
     limitations under the License.
 -->
 <resources>
-    <bool name="default_wallpapper_hidden">true</bool>
+    <bool name="default_wallpapper_hidden">false</bool>
 </resources>
