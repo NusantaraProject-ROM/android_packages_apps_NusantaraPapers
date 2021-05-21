@@ -17,6 +17,7 @@
 <resources>
     <string name="category_np">Nusantara Papers</string>
     <string name="author_np">by NusantaraProject</string>
+    <string name="url_np">https://nusantaraproject.my.id/wallpaper</string>
     <string name="wallpaper_np_01">Nusantara A10</string>
     <string name="wallpaper_np_02">Dark Tilled Nusantara</string>
     <string name="wallpaper_np_03">Pink</string>
