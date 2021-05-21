@@ -15,6 +15,27 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_np">Nusantara Papers</string>
+    <string name="author_np">by NusantaraProject</string>
+    <string name="wallpaper_np_01">Nusantara A10</string>
+    <string name="wallpaper_np_02">Dark Tilled Nusantara</string>
+    <string name="wallpaper_np_03">Pink</string>
+    <string name="wallpaper_np_04">Red</string>
+    <string name="wallpaper_np_05">White</string>
+    <string name="wallpaper_np_06">Tilled Nusantara</string>
+    <string name="wallpaper_np_07">Red Dotted Nusantara A10</string>
+    <string name="wallpaper_np_08">Rengasdengklok</string>
+    <string name="wallpaper_np_09">Nusantara·Weeaboify #1</string>
+    <string name="wallpaper_np_10">First Beta Release</string>
+    <string name="wallpaper_np_11">First Beta Release Dark</string>
+    <string name="wallpaper_np_12">Nusantara·Weeaboify #2</string>
+    <string name="wallpaper_np_13">Garuda Wisnu Kencana</string>
+    <string name="wallpaper_np_14">Third Beta Release</string>
+    <string name="wallpaper_np_15">Regentsweg Release</string>
+    <string name="wallpaper_np_16">Ronggolawe Release</string>
+    <string name="wallpaper_np_17">Reog Release</string>
+    <string name="wallpaper_np_18">Reog Release Dark</string>
+    <string name="wallpaper_np_19">Nusantara·Weeaboify #3</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="category_space">Space</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

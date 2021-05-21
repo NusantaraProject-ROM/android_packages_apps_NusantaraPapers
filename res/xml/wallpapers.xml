@@ -16,6 +16,125 @@
 -->
 <wallpapers>
 
+
+    <category id="npapers" title="@string/category_np" featured="np_01">
+
+        <static-wallpaper
+            id="np_01"
+            src="@drawable/np_01"
+            title="@string/wallpaper_np_01"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_02"
+            src="@drawable/np_02"
+            title="@string/wallpaper_np_02"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_03"
+            src="@drawable/np_03"
+            title="@string/wallpaper_np_03"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_04"
+            src="@drawable/np_04"
+            title="@string/wallpaper_np_04"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_05"
+            src="@drawable/np_05"
+            title="@string/wallpaper_np_05"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_06"
+            src="@drawable/np_06"
+            title="@string/wallpaper_np_06"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_07"
+            src="@drawable/np_07"
+            title="@string/wallpaper_np_07"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_08"
+            src="@drawable/np_08"
+            title="@string/wallpaper_np_08"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_09"
+            src="@drawable/np_09"
+            title="@string/wallpaper_np_09"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_10"
+            src="@drawable/np_10"
+            title="@string/wallpaper_np_10"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_11"
+            src="@drawable/np_11"
+            title="@string/wallpaper_np_11"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_12"
+            src="@drawable/np_12"
+            title="@string/wallpaper_np_12"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_13"
+            src="@drawable/np_13"
+            title="@string/wallpaper_np_13"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_14"
+            src="@drawable/np_14"
+            title="@string/wallpaper_np_14"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_15"
+            src="@drawable/np_15"
+            title="@string/wallpaper_np_15"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_16"
+            src="@drawable/np_16"
+            title="@string/wallpaper_np_16"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_17"
+            src="@drawable/np_17"
+            title="@string/wallpaper_np_17"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_18"
+            src="@drawable/np_18"
+            title="@string/wallpaper_np_18"
+            subtitle1="@string/author_np" />
+
+        <static-wallpaper
+            id="np_19"
+            src="@drawable/np_19"
+            title="@string/wallpaper_np_19"
+            subtitle1="@string/author_np" />
+
+    </category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
